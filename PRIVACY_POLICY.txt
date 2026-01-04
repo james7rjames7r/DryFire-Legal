@@ -104,7 +104,7 @@ For questions about this Privacy Policy:
 App: DryFire
 Developer: Primitive Edge LLC
 Email: primitiveedgellc@gmail.com
-Website: [Your Website if applicable]
+Website: https://raw.githubusercontent.com/james7rjames7r/DryFire-Legal/refs/heads/main/PRIVACY_POLICY.txt
 
 11. JURISDICTION AND GOVERNING LAW
 
