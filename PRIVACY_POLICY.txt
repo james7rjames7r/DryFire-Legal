@@ -1,0 +1,123 @@
+PRIVACY POLICY FOR DRYFIRE
+
+Last Updated: January 4, 2026
+
+1. INTRODUCTION
+
+This Privacy Policy explains how DryFire ("we," "our," or "the app") collects, uses, and protects your information. DryFire is a dry fire training timer application.
+
+2. INFORMATION WE COLLECT
+
+2.1 Information You Provide
+- Training drill names and custom drill configurations
+- Training session data (duration, timestamps)
+- Score calculations (USPSA scores, Top Gun match data)
+- Shooter names (for Top Gun feature)
+- Training schedule preferences
+- Audio preferences (sound settings, audio mode)
+
+2.2 Information We Do NOT Collect
+- Personal identification information (name, email, phone number)
+- Location data
+- Photos or camera access
+- Contacts or calendar data
+- Financial information
+- Biometric data
+
+3. DATA STORAGE
+
+3.1 Local Storage Only
+All training data, custom drills, scores, and logs are stored locally on your device using:
+- SQLite database (Room) for training logs, custom drills, and scores
+- SharedPreferences for app settings and preferences
+
+3.2 No Cloud Storage
+DryFire does NOT:
+- Upload your data to any cloud servers
+- Store your data on external databases
+- Transmit your training information over the internet
+- Require an account or login
+
+Your training data remains completely private and stored only on your device.
+
+4. DATA SHARING AND THIRD PARTIES
+
+4.1 No Data Sharing
+We do NOT:
+- Sell your data to third parties
+- Share your data with advertisers
+- Share your data with analytics companies
+- Transmit data to external servers
+- Share data between users
+
+4.2 Third-Party Services
+DryFire does not integrate with any third-party analytics, advertising, tracking, or data collection services.
+
+5. DATA EXPORT AND DELETION
+
+5.1 Data Export
+You have full control over your data and can:
+- Export training data as plain text through Settings > Export Data
+- Share exported data via sharing methods
+- View logs within the app
+
+5.2 Data Deletion
+You can delete your data at any time:
+- Delete logs through in app options
+- Complete app data by uninstalling the application
+
+5.3 Data Retention
+Data is retained only as long as the app is installed on your device. Uninstalling the app permanently deletes all associated data.
+
+6. PERMISSIONS
+
+DryFire requires the following Android permissions:
+- VIBRATE: To provide haptic feedback during timer operations
+- No other permissions are required or requested
+
+7. CHILDREN'S PRIVACY
+
+DryFire is intended for adults aged 21 and older who are legally permitted to own and handle firearms. We do not knowingly collect information from children under 18. If you believe a child has used the app, please contact us immediately.
+
+8. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy periodically to reflect changes in:
+- App functionality
+- Legal requirements
+- Industry best practices
+
+Changes will be posted within the app or online. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+9. YOUR RIGHTS AND CHOICES
+
+You have the right to:
+- Access all your data within the app (Training Log, Custom Drills, Settings)
+- Export your data at any time (Settings > Export All Data)
+- Delete specific data or all data (Settings > Clear options)
+- Control audio and notification settings
+- Uninstall the app to permanently delete all data
+
+10. CONTACT INFORMATION
+
+For questions about this Privacy Policy:
+
+App: DryFire
+Developer: Primitive Edge LLC
+Email: primitiveedgellc@gmail.com
+Website: [Your Website if applicable]
+
+11. JURISDICTION AND GOVERNING LAW
+
+This Privacy Policy is governed by the laws of Texas / United States, without regard to conflict of law provisions.
+
+12. SEVERABILITY
+
+If any provision of this Privacy Policy is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
+
+13. ENTIRE AGREEMENT
+
+This Privacy Policy constitutes the entire agreement between you and DryFire regarding the collection, use, and protection of your information.
+
+14. CONSENT
+
+By installing and using DryFire, you acknowledge that you have read this Privacy Policy, understand it, and agree to be bound by its terms.
