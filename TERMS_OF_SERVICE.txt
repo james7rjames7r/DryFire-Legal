@@ -238,7 +238,7 @@ For questions about these Terms or the app:
 App: DryFire
 Developer: Primitive Edge LLC
 Email: primitiveedgellc@gmail.com
-Website: [Your Website if applicable]
+Website: https://raw.githubusercontent.com/james7rjames7r/DryFire-Legal/refs/heads/main/TERMS_OF_SERVICE.txt
 
 19. ACKNOWLEDGMENT
 
